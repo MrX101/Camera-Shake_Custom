@@ -1,3 +1,7 @@
+Fork from https://github.com/gasgiant/Camera-Shake so must be public repo.
+
+But I havn't touched it yet.
+
 # GG Camera Shake
 An asset for camera shake in Unity. 
 
